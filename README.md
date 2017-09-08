@@ -5,10 +5,10 @@ This project is to help with the understanding of concepts learned in the <br>Un
 
 ## Contributors:
 Brett Zemke <br>
-Christine Skorenko
-Christopher Mitchell
+Christine Skorenko <br>
+Christopher Mitchell <br>
 Eric Olson
 
 ## Technologies:
-NodeJS
+NodeJS <br>
 Express
